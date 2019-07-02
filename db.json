@@ -1,0 +1,11 @@
+{
+  "name": "just for tests",
+  "children": [
+    {
+      "name": "item1"
+    },
+    {
+      "name": "item2"
+    }
+  ]
+}
